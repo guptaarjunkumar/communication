@@ -10,6 +10,11 @@ body {
     width: 1180px;
     margin: 0 auto;
 }
+#top_heading {
+	/*background:url(../images/bg-header.jpg) no-repeat;*/
+	height:50px;
+	margin:0px 0px 0px 0px;
+	overflow:hidden;
 # top_heading a#logo {
     display: inline-block;
     float: left;
