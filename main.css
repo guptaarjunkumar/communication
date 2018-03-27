@@ -2,13 +2,13 @@ html{
 	display:block;
 }
 body {
-    margin: 0;
+   
     background-color: #e6e7e8;
     font-family: Arial, Helvetica, sans-serif;
 }
 div.page {
     width: 1180px;
-    margin: 0 auto;
+    
 }
 
 div.top_heading  {
