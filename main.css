@@ -11,7 +11,7 @@ body {
     margin: 0 auto;
 }
 
-# top_heading  {
+div.top_heading  {
     display: inline-block;
     
     height: 25px;
