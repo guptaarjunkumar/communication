@@ -14,14 +14,14 @@ div.page {
 div.top_heading  {
     display: inline-block;
     
-    height: 50px;
+    height: 100px;
     margin: 0px;
     width: 900px;
     text-align:center;
     
    font bold 40px Tahoma;
    padding:5px;
-   border:1px solid red;
+   border:1px solid black;
    }
 #navig li{
                           	display:inline-block;
