@@ -3,6 +3,7 @@ html{
 }
 body {
    
+	
     background-color: #e6e7e8;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -15,8 +16,9 @@ div.top_heading  {
     display: inline-block;
     
     height: 100px;
-    margin: 0px;
-    width: 900px;
+    margin-right: 0px;
+    margin-left: 150px;
+    width: 1185px;
     text-align:center;
     
    font bold 40px Tahoma;
@@ -24,12 +26,83 @@ div.top_heading  {
    border:1px solid black;
    }
 #navig li{
-                          	display:inline-block;
-                          	padding:5px;
-                          }
+           display:inline-block;
+           
+		   }
+#navig{
+	 margin-left: 150px;
+	 margin-top:0px;
+	 width:1158px;
+	 
+		   }
+div.content{
+	width:1180px;
+	margin-left:160px;
+	
+}
+div.content-page{
+	margin-left:160px;
+	margin-right:160px;
+	margin-top:70px;
+}
 
+/* Style the top navigation bar */
+ #navig{
+    overflow: hidden;
+    background-color: #333;
+}
 
+/* Style the topnav links */
+#navig a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
 
+/* Change color on hover */
+#navig a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+	width:100px;
+	float:left;
+	margin-right:70px;
+	width:150px;
+}
+.menu li {
+    padding: 8px;
+    margin-bottom: 7px;
+    background-color: #33b5e5;
+    color: #ffffff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.menu a:hover {
+    background-color: #0099cc;
+}
+#para{
+	
+}
+div.card{
+	clear:both;
+	margin-top:50px;
+	margin-left:160px;
+	margin-right:160px;
+	padding:5px;
+	background-color:white;
+	box-shadow:0px 1px 4px 
+	rgba(0,0,0,0.5);
+
+	border:1px solid white;
+	width:900px;
+	height:500px;
+}
 
 
 
