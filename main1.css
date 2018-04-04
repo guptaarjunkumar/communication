@@ -22,6 +22,8 @@ div.top_heading  {
     
    font bold 40px Tahoma;
    padding:5px;
+	   border:1px solid black;
+
    
    }
 #navig li{
