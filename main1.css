@@ -15,7 +15,8 @@ div.page {
 div.top_heading  {
     display: inline-block;
    
-    
+    margin-right: 0px;
+    margin-left: 0px;
     width: 100%;
     text-align:center;
     
@@ -30,7 +31,7 @@ div.top_heading  {
 #navig{
 	 margin-left: 0px;
 	 margin-top:0px;
-	 width:85%;
+	 width:100%;
 	 
 		   }
 div.content{
@@ -39,7 +40,8 @@ div.content{
 	
 }
 div.content-page{
-	
+	margin-left:0px;
+	margin-right:0px;
 	margin-top:15px;
 }
 
@@ -89,7 +91,8 @@ div.content-page{
 div.card{
 	clear:both;
 	margin-top:45px;
-	
+	margin-left:0px;
+	margin-right:0px;
 	padding:3px;
 	background-color:white;
 	box-shadow:0px 1px 4px 
