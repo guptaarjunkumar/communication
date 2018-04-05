@@ -1,5 +1,6 @@
 html{
 	display:block;
+	width:100%;
 }
 body {
    
@@ -22,9 +23,7 @@ div.top_heading  {
     
    font: bold 15px Tahoma;
    padding:5px;
-	   border:1px solid black;
-
-   
+  
    }
 #navig li{
            display:inline-block;
@@ -33,7 +32,7 @@ div.top_heading  {
 #navig{
 	 margin-left: 0px;
 	 margin-top:0px;
-	 width:91.5%;
+	 width:90.5%;
 	 
 		   }
 div.content{
@@ -104,7 +103,6 @@ div.card{
 	width:95%;
 	height:450px;
 }
-
 div.footer{
 	 margin-right: 0px;
     margin-left: 0px;
@@ -116,6 +114,9 @@ div.footer{
 
 	padding-bottom:5px;
 }
+
+
+
 
 
 
