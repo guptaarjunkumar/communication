@@ -21,7 +21,7 @@ div.top_heading  {
     width: 1185px;
     text-align:center;
     
-   font bold 40px Tahoma;
+   font: bold 30px Tahoma;
    padding:5px;
    border:1px solid black;
    }
@@ -102,6 +102,17 @@ div.card{
 	border:1px solid white;
 	width:900px;
 	height:500px;
+}
+div.footer{
+	 margin-right: 0px;
+    margin-left: 0px;
+    width: 1510px;
+	height:150px;
+	border-top:1px solid black;
+	font :bold 13px Tahoma;
+		background:#66cccc;
+
+	padding-bottom:5px;
 }
 
 
